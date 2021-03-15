@@ -1,0 +1,12 @@
+{
+  "name": "forPeopleMobile",
+  "displayName": "forPeopleMobile",
+  "expo": {
+    "name": "forPeopleMobile",
+    "slug": "forPeopleMobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
